@@ -8,6 +8,10 @@ Makefile
 
 .vscode/
 
+
+*.sln
+*.vcxproj
+
 # User-specific files
 *.rsuser
 *.suo
