@@ -92,15 +92,9 @@ int main()
 	glDeleteShader(fragmentShader);
 
 	float vert[] = {
-		-0.5f,
-		-0.5f,
-		0.0f,
-		0.5f,
-		-0.5f,
-		0.0f,
-		-0.5f,
-		0.5f,
-		0.0f,
+		-0.5f, -0.5f, 0.0f,
+		0.5f, -0.5f, 0.0f,
+		-0.5f, 0.5f, 0.0f,
 	};
 
 	// gen new buffer id
