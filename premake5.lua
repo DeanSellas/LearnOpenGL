@@ -21,7 +21,7 @@ workspace "LearnOpenGL"
 
 	project "LearnOpenGL"
 		location "LearnOpenGL"
-		kind "WindowedApp"
+		kind "ConsoleApp"
 		language "C++"
 		cppdialect "C++17"
 

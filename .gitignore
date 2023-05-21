@@ -11,6 +11,8 @@ Makefile
 
 *.sln
 *.vcxproj
+*.vcxproj.filters
+
 
 # User-specific files
 *.rsuser
@@ -405,3 +407,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
